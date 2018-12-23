@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 12, 2018, 8:15:22 PM
+    Author     : D
+*/
+
+.vbox{
+
+    -fx-spacing: 12px;
+}
+
+.label {
+    -fx-font-size: 10 px;
+    -fx-font: normal bold 20px 'san-serif';
+   /*-fx-text-fill:white;*/
+
+}
+
+.text-field{
+    -fx-text-fill: red;
+    -fx-font-size:20px;
+}
+
+.button{
+    -fx-text-fill: white;
+    -fx-background-color: blue;
+    -fx-font: normal bold 20px 'serif';
+}
